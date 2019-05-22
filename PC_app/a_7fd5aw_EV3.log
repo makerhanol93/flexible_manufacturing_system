@@ -1,0 +1,197 @@
+2018-12-03 18:42:10,412   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:12,766   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:14,939   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:16,688   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:18,855   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:20,511   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:22,692   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:24,349   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:26,480   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:28,233   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:30,413   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:32,071   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:34,224   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:36,069   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:38,250   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:40,121   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:42,275   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:44,017   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:47,181   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:49,922   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:28:52,093   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 19:28:53,744   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 19:29:06,583   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:14:17,926   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:16:09,335   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:18:05,743   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:18:36,202   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:20:55,924   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:24:14,298   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:31:07,529   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:32:00,649   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:33:47,919   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 20:33:51,862   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-03 20:34:09,372   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-03 20:34:13,199   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-08 10:07:04,433   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-08 10:18:13,859   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-08 10:22:01,402   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-08 10:28:13,106   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 14:30:37,207   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 15:27:59,423   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 15:30:42,785   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 15:32:56,200   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:08:44,442   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:09:14,689   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:11:17,863   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:14:56,756   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 16:14:58,564   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:16:59,119   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:18:28,255   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:19:21,031   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 16:30:43,395   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 16:30:45,167   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:05:21,468   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:06:16,128   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 17:06:17,892   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:08:18,144   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:11:00,703   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:29:31,188   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:30:43,981   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 17:30:45,758   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 17:38:29,184   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 17:38:44,919   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 18:08:53,289   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 19:23:43,619   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 19:23:53,263   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 19:31:53,998   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 19:42:14,512   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 20:50:33,922   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:18:12,926   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:20:43,916   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:22:27,300   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:23:49,140   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:24:58,572   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:25:15,247   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-10 21:25:17,046   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-10 21:30:19,359   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:06:46,973   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:08:51,915   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:12:21,609   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:15:24,826   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:16:42,858   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:27:22,020   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:30:55,397   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:31:37,114   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:32:15,900   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:32:59,938   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 16:35:10,096   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:55:14,823   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:55:49,789   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:56:24,629   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:57:07,817   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:57:41,789   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:58:00,723   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:59:11,015   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 21:59:42,786   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:00:20,025   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:05:20,965   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:06:31,559   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:07:19,140   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:20:24,319   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:21:08,863   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:22:38,655   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 22:27:59,578   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:14:38,294   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:16:16,730   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:20:28,843   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:23:15,320   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:27:04,193   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:34:56,607   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:39:50,791   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:46:07,721   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-11 23:46:27,274   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:08:16,037   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:13:21,774   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:13:30,432   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:17:25,763   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:27:05,209   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:27:06,988   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 00:27:08,779   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:27:10,572   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 00:27:26,175   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 00:27:27,994   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 00:27:29,690   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 01:26:41,294   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 01:29:46,936   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 01:53:05,673   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:03:40,628   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:17:55,738   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:20:15,279   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:21:24,972   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:21:38,926   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:22:41,775   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:23:58,801   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:24:51,922   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:25:53,189   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:27:34,218   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:31:04,728   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:33:24,276   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:35:33,966   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:39:49,119   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 02:42:46,304   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:04:32,906   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:05:19,033   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:06:28,365   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:14:30,957   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:16:10,154   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:17:44,288   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:18:27,632   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:25:56,896   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:28:38,978   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:29:10,366   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:29:42,316   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:36:49,200   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 03:36:51,258   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:38:04,790   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:40:32,819   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:42:06,985   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 03:42:08,926   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:49:29,339   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 03:55:14,281   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 03:55:16,201   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 04:06:40,487   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 04:06:42,391   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 04:08:54,246   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 14:50:17,649   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:03:43,065   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:18:39,540   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:26:10,618   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:26:18,579   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:27:53,603   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:27:55,551   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:30:09,513   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:30:11,442   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:32:03,171   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:32:05,170   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:33:21,349   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:41:21,343   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:44:13,441   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:44:15,398   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:54:36,221   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:55:48,007   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 15:59:55,293   ibmiotf.application.Client  ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2018-12-12 15:59:58,139   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:04:46,429   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:16:34,727   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:23:38,489   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:41:10,304   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:43:28,024   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 16:44:23,488   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:32:43,410   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:42:27,644   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:56:53,282   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:58:09,712   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:58:17,320   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 17:59:38,225   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
+2018-12-12 18:29:54,457   ibmiotf.application.Client  INFO    Connected successfully: a:7fd5aw:EV3
